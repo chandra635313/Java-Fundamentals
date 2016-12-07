@@ -1,4 +1,4 @@
-package fibonacci.usingLambda;
+package fibonacciUsingLambda;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -15,6 +15,11 @@ public class Fibonacci {
 		if (x == 0 || x == 1)
 			return x;
 		return map.computeIfAbsent(x, arg -> fibonacci(x - 1) + fibonacci(x - 2));
+	}
+
+	public static void main(String s[]) {
+		Fibonacci fibo = new Fibonacci();
+		System.out.println(fibo.fibonacci(6));
 	}
 }
 
