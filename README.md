@@ -2,12 +2,10 @@
 * ##List of Programs
 
   * [Anonymous vs Lambda](https://github.com/pratham87/BasicJavaPrograms/tree/master/src/main/java/anonymousVsLambda)
- 
   * Java 8:
     * [Default methods](https://github.com/pratham87/BasicJavaPrograms/tree/master/src/main/java/defaultMethodsJava8)
     * [foreach loop](https://github.com/pratham87/BasicJavaPrograms/tree/master/src/main/java/java8foreachExamples)
     * [Streams](https://github.com/pratham87/BasicJavaPrograms/tree/master/src/main/java/streamsJava8)
-    
   * [Enums](https://github.com/pratham87/BasicJavaPrograms/tree/master/src/main/java/enumsExample)
   * [Exception Handling](https://github.com/pratham87/BasicJavaPrograms/tree/master/src/main/java/exceptionHandling)
   * Factorial using:
