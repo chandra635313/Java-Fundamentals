@@ -33,10 +33,10 @@
   
   * Design patterns:
     * [MVC](https://github.com/pratham87/BasicJavaPrograms/tree/master/src/main/java/mvcDesignPattern)
-    * []()
-    * []()
   
   * [Nested Interface](https://github.com/pratham87/BasicJavaPrograms/tree/master/src/main/java/nestedInterface)
+  
+  * [Nested Objects](https://github.com/pratham87/BasicJavaPrograms/tree/master/src/main/java/nestedObjects)
   
   * [NewOperator vs NewInstance](https://github.com/pratham87/BasicJavaPrograms/tree/master/src/main/java/newOperatorVSnewInstance)
   
