@@ -27,7 +27,9 @@
     * []()
   * [Nested Interface](https://github.com/pratham87/BasicJavaPrograms/tree/master/src/main/java/nestedInterface)
   * [NewOperator vs NewInstance](https://github.com/pratham87/BasicJavaPrograms/tree/master/src/main/java/newOperatorVSnewInstance)
-  * [Overrride Hashcode and Equals](https://github.com/pratham87/BasicJavaPrograms/tree/master/src/main/java/overrrideHashcodeAndEquals)
+  * Overrride Hashcode and Equals:
+    * [Classic way](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/overrrideHashcodeAndEquals/UserClassicWay.java)
+    * [New way](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/overrrideHashcodeAndEquals/UserNewWay.java)
   * [Reverse number](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/reverseNumber/ReverseNumber.java)
   * [Static and Final](https://github.com/pratham87/BasicJavaPrograms/tree/master/src/main/java/staticAndFinal)
   * Strings:
