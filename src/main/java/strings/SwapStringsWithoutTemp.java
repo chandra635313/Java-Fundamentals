@@ -1,4 +1,4 @@
-package swap;
+package strings;
 
 public class SwapStringsWithoutTemp {
 	public static void main(String args[]) {
