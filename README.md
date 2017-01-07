@@ -31,6 +31,19 @@
   * [Reverse number](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/reverseNumber/ReverseNumber.java)
   * [Static and Final](https://github.com/pratham87/BasicJavaPrograms/tree/master/src/main/java/staticAndFinal)
   * Strings:
+    * [Anagram](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/strings/Anagram.java)
+    * [Find Substring](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/strings/FindSubString.java)
+    * Find unique character string using:
+      * [Two Pointer technique](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/strings/FindUniqueCharacterStringUsing2Pointer.java)
+      * [ASCII code](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/strings/FindUniqueCharacterStringUsingASCIIcode.java)
+    * [Replace Substring](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/strings/ReplaceSubstring.java)
+    * Reverse string ussing:
+      * [Char array](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/strings/ReverseStringUsingCharArray.java)
+      * [Stack](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/strings/ReverseStringUsingStack.java)
+      * [String builder](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/strings/ReverseStringUsingStringBuilder.java)
+      * [Two Pointer Technique](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/strings/ReverseStringUsingTwoPointerTechnique.java)
+      * [Reverse Vowels in a string](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/strings/ReverseVowelsInAString.java)
+    * [Sum of Numbers in a String](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/strings/SumOfNumbersInString.java)
     * [Swap without temp](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/swap/SwapStringsWithoutTemp.java)
   * Swap:
     * [With temp](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/swap/SwapNumbersWithTemp.java)
