@@ -44,6 +44,11 @@
     * [Classic way](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/overrrideHashcodeAndEquals/UserClassicWay.java)
     * [New way](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/overrrideHashcodeAndEquals/UserNewWay.java)
   
+  * Persistence:
+    * [Person](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/persistence/Person.java)
+    * [Serializing Person](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/persistence/SerializePerson.java)
+    * [Deserializing Person](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/persistence/DeserializePerson.java)
+  
   * [Reverse number](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/reverseNumber/ReverseNumber.java)
   
   * [Static and Final](https://github.com/pratham87/BasicJavaPrograms/tree/master/src/main/java/staticAndFinal)
