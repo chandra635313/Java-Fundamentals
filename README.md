@@ -51,6 +51,9 @@
   
   * [Reverse number](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/reverseNumber/ReverseNumber.java)
   
+  * Security:
+    * [Encrpt Decrypt token using DES](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/security/EncDecrypter.java)
+  
   * [Static and Final](https://github.com/pratham87/BasicJavaPrograms/tree/master/src/main/java/staticAndFinal)
   
   * Strings:
