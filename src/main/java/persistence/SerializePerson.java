@@ -13,7 +13,7 @@ public class SerializePerson {
 			out.writeObject(person);
 			out.close();
 			fileOut.close();
-			System.out.printf("Serialized data is saved in /tmp/person.ser");
+			System.out.printf("Serialized data is saved in person.ser");
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
