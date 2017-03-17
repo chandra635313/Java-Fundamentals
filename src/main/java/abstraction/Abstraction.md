@@ -9,3 +9,10 @@
 5. It cannot be instantiated.
 6. An abstract class can have fields (state), abstract method, non abstract method, constructor and main() method.
 7. Adapter class feature: The abstract class can also be used to provide some implementation of the interface. In such case, the end user may not be forced to override all the methods of the interface.
+8. Abstract class vs Interface:
+
+| Abstract class        | Interface           | 
+| :------------- |:-------------|
+| abstract and non-abstract      | only abstract methods | 
+| Can have final, non-final, static and non-static variables.      | only static and final variables      |  
+| Can provide the implementation of interface | Can't provide the implementation of abstract class      | 
