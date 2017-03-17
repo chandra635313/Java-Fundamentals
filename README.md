@@ -42,6 +42,8 @@
   
   * [NewOperator vs NewInstance](https://github.com/pratham87/BasicJavaPrograms/tree/master/src/main/java/newOperatorVSnewInstance)
   
+  * [No Multiple Inheritance (extend multiple classes)](https://github.com/pratham87/BasicJavaPrograms/tree/master/src/main/java/noMultipleInheritance)
+  
   * Overrride Hashcode and Equals:
     * [Classic way](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/overrrideHashcodeAndEquals/UserClassicWay.java)
     * [New way](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/overrrideHashcodeAndEquals/UserNewWay.java)
