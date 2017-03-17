@@ -13,7 +13,7 @@
 
 | Abstract class        | Interface           | 
 | :------------- |:-------------|
-| abstract and non-abstract      | only abstract methods | 
+| abstract and non-abstract methods     | only abstract methods | 
 | Can have final, non-final, static and non-static variables.      | only static and final variables      |  
 | Can provide the implementation of interface | Can't provide the implementation of abstract class      | 
 
