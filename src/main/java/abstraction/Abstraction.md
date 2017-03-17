@@ -13,6 +13,11 @@
 
 | Abstract class        | Interface           | 
 | :------------- |:-------------|
-| abstract and non-abstract      | only abstract methods | 
+| abstract and non-abstract methods     | only abstract methods | 
 | Can have final, non-final, static and non-static variables.      | only static and final variables      |  
 | Can provide the implementation of interface | Can't provide the implementation of abstract class      | 
+
+9. [When would you use an interface instead of an abstract class or vice-versa?](https://msdn.microsoft.com/en-us/library/scsyfw1d%28v=vs.71%29.aspx?f=255&MSPPError=-2147217396)
+	* If you are gonna create different versions of your component and you need a common functionality for all those versions, then use abstract class. By updating the base class, all inheriting classes are automatically updated with the change. Interfaces, on the other hand, cannot be changed once created. If a new version of an interface is required, you must create a whole new interface.
+	* Interfaces are best suited for providing common functionality to unrelated classes whereas Abstract classes should be used for closely related objects. 
+	* Abstract classes allow you to partially implement your class, whereas interfaces contain no implementation for any members. 
