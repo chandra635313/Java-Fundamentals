@@ -9,7 +9,8 @@
 5. It cannot be instantiated.
 6. An abstract class can have fields (state), abstract method, non abstract method, constructor and main() method.
 7. Adapter class feature: The abstract class can also be used to provide some implementation of the interface. In such case, the end user may not be forced to override all the methods of the interface.
-8. Abstract class vs Interface:
+8. **In Java, an abstract class can implement an interface, and not provide implementations of all of the interface's methods. It is the responsibility of the first concrete class that has that abstract class as an ancestor to implement all of the methods in the interface.**
+9. Abstract class vs Interface:
 
 | Abstract class        | Interface           | 
 | :------------- |:-------------|
@@ -17,7 +18,7 @@
 | Can have final, non-final, static and non-static variables.      | only static and final variables      |  
 | Can provide the implementation of interface | Can't provide the implementation of abstract class      | 
 
-9. [When would you use an interface instead of an abstract class or vice-versa?](https://msdn.microsoft.com/en-us/library/scsyfw1d%28v=vs.71%29.aspx?f=255&MSPPError=-2147217396)
+10. [When would you use an interface instead of an abstract class or vice-versa?](https://msdn.microsoft.com/en-us/library/scsyfw1d%28v=vs.71%29.aspx?f=255&MSPPError=-2147217396)
 	* If you are gonna create different versions of your component and you need a common functionality for all those versions, then use abstract class. By updating the base class, all inheriting classes are automatically updated with the change. Interfaces, on the other hand, cannot be changed once created. If a new version of an interface is required, you must create a whole new interface.
 	* Interfaces are best suited for providing common functionality to unrelated classes whereas Abstract classes should be used for closely related objects. 
 	* Abstract classes allow you to partially implement your class, whereas interfaces contain no implementation for any members. 
