@@ -29,6 +29,8 @@
   
   * [Generics](https://github.com/pratham87/BasicJavaPrograms/tree/master/src/main/java/genericExample)
   
+  * [Hiding and Shadowing](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/hidingAndShadowing/Parent.java)
+  
   * [Infinity or Exception](https://github.com/pratham87/BasicJavaPrograms/tree/master/src/main/java/infinityOrException)
   
   * [Multithreading](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/multithreading/RunnableDemo.java)
