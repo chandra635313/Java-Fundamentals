@@ -33,7 +33,9 @@
   
   * [Infinity or Exception](https://github.com/pratham87/BasicJavaPrograms/tree/master/src/main/java/infinityOrException)
   
-  * [Multithreading](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/multithreading/RunnableDemo.java)
+  * Multithreading:
+    * [Runnable Demo](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/multithreading/RunnableDemo.java)
+    * [Notes](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/multithreading/Notes.md)
   
   * Design patterns:
     * [MVC](https://github.com/pratham87/BasicJavaPrograms/tree/master/src/main/java/mvcDesignPattern)
