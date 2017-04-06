@@ -1,23 +1,32 @@
 package extras;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class FizzBuzz {
 
-	public static String fizzbuzz(Integer num) {
-		if (num % 3 == 0 && num % 5 == 0) {
-			return "fizzBuzz";
-		}
-		if (num % 3 == 0) {
-			return "fizz";
-		} else if (num % 5 == 0) {
-			return "buzz";
+	public static List<String> fizzBuzz(int n) {
+		List<String> list = new ArrayList<String>(n);
+		int i = 0;
+		while (i++ < n) {
+			if (i % 3 == 0 && i % 5 == 0) {
+				list.add("FizzBuzz");
+			} else if (i % 5 == 0) {
+				list.add("Buzz");
+			} else if (i % 3 == 0) {
+				list.add("Fizz");
+			} else {
+				list.add(String.valueOf(i));
+			}
 		}
 
-		return num.toString();
+		return list;
 
 	}
 
 	public static void main(String[] args) {
-		System.out.println(fizzbuzz(3));
+		List<?> list = fizzBuzz(15);
+		System.out.println(list);
 	}
 
 }
