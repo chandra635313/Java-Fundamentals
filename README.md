@@ -5,7 +5,7 @@
   
   * [Abstraction](https://github.com/pratham87/BasicJavaPrograms/tree/master/src/main/java/abstraction)
   
-  * Java 8:
+  * ### **Java 8:**
     * [Lambda expression](https://github.com/pratham87/BasicJavaPrograms/tree/master/src/main/java/lambdaExpressionExamples)
     * [Default methods](https://github.com/pratham87/BasicJavaPrograms/tree/master/src/main/java/defaultMethodsJava8)
     * [foreach loop](https://github.com/pratham87/BasicJavaPrograms/tree/master/src/main/java/java8foreachExamples)
@@ -15,15 +15,15 @@
   
   * [Exception Handling](https://github.com/pratham87/BasicJavaPrograms/tree/master/src/main/java/exceptionHandling)
   
-  * Factorial using:
+  * ### **Factorial using:**
     * [Iterative method](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/factorial/Factorial.java)
     * [Recursion](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/factorial/FactorialUsingRecursion.java)
   
-  * Fibonacci:
+  * ### **Fibonacci:**
     * [Lambda expression](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/fibonacciUsingLambda/Fibonacci.java)
     * [Iterative method](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/fibonacciUsingLambda/FibonacciIterativeWay.java)
   
-  * Prime numbers using:
+  * ### **Prime numbers using:**
     * [Iterative method](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/generatePrimeNumbers/GeneratePrimeNumbersExample.java)
     * [Streams](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/generatePrimeNumbers/PrimeNumberUsingStream.java)
   
@@ -33,11 +33,11 @@
   
   * [Infinity or Exception](https://github.com/pratham87/BasicJavaPrograms/tree/master/src/main/java/infinityOrException)
   
-  * Multithreading:
+  * ### **Multithreading:**
     * [Runnable Demo](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/multithreading/RunnableDemo.java)
     * [Notes](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/multithreading/Notes.md)
   
-  * Design patterns:
+  * ### **Design patterns:**
     * [MVC](https://github.com/pratham87/BasicJavaPrograms/tree/master/src/main/java/mvcDesignPattern)
   
   * [Nested Interface](https://github.com/pratham87/BasicJavaPrograms/tree/master/src/main/java/nestedInterface)
@@ -48,23 +48,23 @@
   
   * [No Multiple Inheritance (extend multiple classes)](https://github.com/pratham87/BasicJavaPrograms/tree/master/src/main/java/noMultipleInheritance)
   
-  * Overrride Hashcode and Equals:
+  * ### **Overrride Hashcode and Equals:**
     * [Classic way](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/overrrideHashcodeAndEquals/UserClassicWay.java)
     * [New way](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/overrrideHashcodeAndEquals/UserNewWay.java)
   
-  * Persistence:
+  * ### **Persistence:**
     * [Person](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/persistence/Person.java)
     * [Serializing Person](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/persistence/SerializePerson.java)
     * [Deserializing Person](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/persistence/DeserializePerson.java)
   
   * [Reverse number](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/reverseNumber/ReverseNumber.java)
   
-  * Security:
+  * ### **Security:**
     * [Encrpt Decrypt token using DES](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/security/EncDecrypter.java)
   
   * [Static and Final](https://github.com/pratham87/BasicJavaPrograms/tree/master/src/main/java/staticAndFinal)
   
-  * Strings:
+  * ### **Strings:**
     * [Anagram](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/strings/Anagram.java)
     * [Find Substring](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/strings/FindSubString.java)
     * Find unique character string using:
@@ -80,11 +80,11 @@
     * [Sum of Numbers in a String](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/strings/SumOfNumbersInString.java)
     * [Swap without temp](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/strings/SwapStringsWithoutTemp.java)
   
-  * Swap:
+  * ### **Swap:**
     * [With temp](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/swap/SwapNumbersWithTemp.java)
     * [Without temp](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/swap/SwapNumbersWithoutTemp.java)
   
-  * Extra's:
+  * ### **Extra's:**
     * [FizzBuzz](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/extras/FizzBuzz.java)
     * [Iterate Hash map](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/extras/IterateHashMap.java)
     * [Object Reference](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/extras/ObjectReference.java)
