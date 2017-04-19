@@ -78,7 +78,7 @@
       * [Two Pointer Technique](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/strings/ReverseStringUsingTwoPointerTechnique.java)
       * [Reverse Vowels in a string](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/strings/ReverseVowelsInAString.java)
     * [Sum of Numbers in a String](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/strings/SumOfNumbersInString.java)
-    * [Swap without temp](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/swap/SwapStringsWithoutTemp.java)
+    * [Swap without temp](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/strings/SwapStringsWithoutTemp.java)
   
   * Swap:
     * [With temp](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/swap/SwapNumbersWithTemp.java)
