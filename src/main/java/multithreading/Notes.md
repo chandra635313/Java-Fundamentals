@@ -10,12 +10,29 @@
   * This doesn't apply when you are extending thread abstract class. 
   * start() method implicitly calls run() method
 
+
+* ### ThreadLocal:
+	* The ThreadLocal class in Java enables you to create variables that can only be read and written by the same thread. 
+	* If two threads are accessing ThreadLocal variable, then the two threads cannot see each other's ThreadLocal variables. 
+      ```java
+      private ThreadLocal myThreadLocal = new ThreadLocal();
+      ```
+   * As you can see, you instantiate a new ThreadLocal object. This only needs to be done once per thread. Even if different threads execute the same code which accesses a ThreadLocal, each thread will see only its own ThreadLocal instance.  
+
+  * #### Generic ThreadLocal
+  	* ThreadLocal of type T. 
+    ```java
+    private ThreadLocal<T> myThreadLocal = new ThreadLocal<T>();
+    ```
+   
+
 * ### Workers thread: 
 	* They are used to run tasks in background. 
 
 * ### Deadlock:
-    * One thread waiting on another thread
-* ### Avoid Deadlock:
+    * One or more threads waiting on each other infinitely.
+
+* * ### Avoid Deadlock:
     * Avoid nested locks on objects
     * Avoid waiting indefinitely
     * Acquire lock only if required
