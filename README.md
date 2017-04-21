@@ -35,6 +35,7 @@
   
   * ### **Multithreading:**
     * [Runnable Demo](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/multithreading/RunnableDemo.java)
+    * [Deadlock Example](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/multithreading/Deadlock.java)
     * [Notes](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/multithreading/Notes.md)
   
   * ### **Design patterns:**
