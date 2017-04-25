@@ -36,4 +36,5 @@
     * Avoid nested locks on objects
     * Avoid waiting indefinitely
     * Acquire lock only if required
+    * Acquire locks in a ordered sequence
 
