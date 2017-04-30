@@ -32,9 +32,27 @@
 * ### Deadlock:
     * One or more threads waiting on each other infinitely.
 
-* * ### Avoid Deadlock:
+* ### Avoid Deadlock:
     * Avoid nested locks on objects
     * Avoid waiting indefinitely
     * Acquire lock only if required
     * Acquire locks in a ordered sequence
+
+* ### Callable vs Runnable Interface:
+    | Callable        | Runnable                  | 
+    | -------------   |-------------              |
+    | ``` V call() throws Exception ```     | ``` void run() ```|
+    |   Return a Value V   | void     				  |
+    |   Throws Exception   | Doesn't Throws Exception     				  |
+	
+
+
+* ### Synchronized block vs Synchronized method:
+	*  Synchronized block: Good practice
+		* Reduce scope of lock, as scope of lock is inversely proportional to performance.
+		* Lock is acquired at the start of the block and released at the end of the block.
+	*  Synchronized Method:
+		* Lock on Entire object
+		* synchronized keyword on the method declaration will synchronize the whole method to the object or class.   
+
 
