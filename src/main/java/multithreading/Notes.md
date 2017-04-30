@@ -42,8 +42,8 @@
     | Callable        | Runnable                  | 
     | -------------   |-------------              |
     | ``` V call() throws Exception ```     | ``` void run() ```|
-    |   Return a Value V   | void     				  |
-    |   Throws Exception   | Doesn't Throws Exception     				  |
+    |   Returns a Value V   | void     				  |
+    |   Throws Exception   | Doesn't Throw Exception     				  |
 	
 
 
