@@ -71,6 +71,5 @@
   
   * ### **Extra's:**
     * [FizzBuzz](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/extras/FizzBuzz.java)
-    * [Iterate Hash map](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/extras/IterateHashMap.java)
     * [Object Reference](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/extras/ObjectReference.java)
     * [Pass By Value](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/extras/PassByValue.java)
