@@ -65,25 +65,6 @@
   
   * [Static and Final](https://github.com/pratham87/BasicJavaPrograms/tree/master/src/main/java/staticAndFinal)
   
-  * ### **Strings:**
-    * [Anagram](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/strings/Anagram.java)
-    * Find unique character string using:
-      * [Two Pointer technique](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/strings/FindUniqueCharacterStringUsing2Pointer.java)
-      * [ASCII code](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/strings/FindUniqueCharacterStringUsingASCIIcode.java)
-    * Reverse string using:
-      * [Char array](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/strings/ReverseStringUsingCharArray.java)
-      * [Stack](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/strings/ReverseStringUsingStack.java)
-      * [String builder](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/strings/ReverseStringUsingStringBuilder.java)
-      * [Two Pointer Technique](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/strings/ReverseStringUsingTwoPointerTechnique.java)
-      * [Reverse Vowels in a string](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/strings/ReverseVowelsInAString.java)
-    * Substring:
-       * [Find Substring](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/strings/FindSubString.java)
-       * [Replace Substring](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/strings/ReplaceSubstring.java)
-       * [Longest Substring Length without repeating characters](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/strings/LongestSubstringLength.java)
-       * Longest Palindromic Substring
-    * [Sum of Numbers in a String](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/strings/SumOfNumbersInString.java)
-    * [Swap without temp](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/strings/SwapStringsWithoutTemp.java)
-  
   * ### **Swap:**
     * [With temp](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/swap/SwapNumbersWithTemp.java)
     * [Without temp](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/swap/SwapNumbersWithoutTemp.java)
