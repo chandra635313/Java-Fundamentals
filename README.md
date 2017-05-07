@@ -33,6 +33,8 @@
   
   * [Infinity or Exception](https://github.com/pratham87/BasicJavaPrograms/tree/master/src/main/java/infinityOrException)
   
+  * [Loose Coupling and Tight Coupling](https://github.com/pratham87/Java-Fundamentals/tree/master/src/main/java/looseVsTightCoupling)
+  
   * ### **Multithreading:**
     * [Runnable Demo](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/multithreading/RunnableDemo.java)
     * [Deadlock Example](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/multithreading/Deadlock.java)
