@@ -9,8 +9,8 @@ package looseVsTightCoupling;
  1. In traveler class, an external entity injects either car (or) Bike object.
  2. In traveler class, these are no changes required if we are shifting the dependency from Car to Bike. 
   
-  				Vehicle (Interface)
-  				/     \
+  			    Vehicle (Interface)
+  			    /     \
   			  Car     Bike (Classes)
  */
 
