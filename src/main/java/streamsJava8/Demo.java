@@ -5,8 +5,9 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /*
-1. For List, Set, Map: Use forEach()
-   Example: list.forEach(System.out::println)
+1. For List, Set, Map:
+   Example 1: list.forEach(System.out::println)
+   Example 2: set.stream().filter(e -> e%2 == 0).forEach(System.out::print);
 
 2. For every element in arrays: Use Arrays.stream()
    Arrays.stream(array).forEach(System.out::println)
