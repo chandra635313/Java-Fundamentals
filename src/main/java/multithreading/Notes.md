@@ -28,6 +28,7 @@
 
 * ### Workers thread: 
 	* They are used to run tasks in background. 
+	* Garbage Collection in Java is carried by a **daemon thread** called **Garbage Collector**.
 
 * ### Deadlock:
     * One or more threads waiting on each other infinitely.
