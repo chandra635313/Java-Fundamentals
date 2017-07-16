@@ -35,6 +35,18 @@ public class ListAndSetStreamOperations {
 		System.out.println("\n\nReverse Sorted integer List: ");
 		numbers.stream().sorted(Comparator.reverseOrder()).forEach(e -> System.out.print(e + " "));
 
+		// forEach method
+		System.out.println("forEach method: ");
+		numbers.forEach(e -> System.out.print(e + " "));
+
+		// Sort integer list
+		System.out.println("\n\nSorted integer List: ");
+		numbers.stream().sorted().forEach(e -> System.out.print(e + " "));
+
+		// Reverse Sorted integer list
+		System.out.println("\n\nReverse Sorted integer List: ");
+		numbers.stream().sorted(Comparator.reverseOrder()).forEach(e -> System.out.print(e + " "));
+
 		// Sort character list
 		System.out.println("\n\nSorted character List: ");
 		letters.stream().sorted().forEach(c -> System.out.print(c + " "));
@@ -42,6 +54,11 @@ public class ListAndSetStreamOperations {
 		// Sort String list
 		System.out.println("\n\nSorted String List: ");
 		words.stream().sorted().forEach(w -> System.out.print(w + " "));
+
+		// Sort Object list
+		System.out.println("\n\nSorted Object List: ");
+		students.stream().sorted(Comparator.comparing(Student::getId))
+				.forEach(st -> System.out.print(st.getId() + " " + st.getName() + " "));
 
 		// Sort Object list
 		System.out.println("\n\nSorted Object List: ");
@@ -87,5 +104,5 @@ Using map and collect:
 
 Using filter: 
 4 64 16 
- 
+
 */
