@@ -15,18 +15,6 @@
   
   * [Exception Handling](https://github.com/pratham87/BasicJavaPrograms/tree/master/src/main/java/exceptionHandling)
   
-  * ### **Factorial using:**
-    * [Iterative method](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/factorial/Factorial.java)
-    * [Recursion](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/factorial/FactorialUsingRecursion.java)
-  
-  * ### **Fibonacci:**
-    * [Lambda expression](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/fibonacciUsingLambda/Fibonacci.java)
-    * [Iterative method](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/fibonacciUsingLambda/FibonacciIterativeWay.java)
-  
-  * ### **Prime numbers using:**
-    * [Iterative method](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/generatePrimeNumbers/GeneratePrimeNumbersExample.java)
-    * [Streams](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/generatePrimeNumbers/PrimeNumberUsingStream.java)
-  
   * [Generics](https://github.com/pratham87/BasicJavaPrograms/tree/master/src/main/java/genericExample)
   
   * [Hiding and Shadowing](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/hidingAndShadowing/Parent.java)
@@ -60,8 +48,6 @@
     * [Serializing Person](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/persistence/SerializePerson.java)
     * [Deserializing Person](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/persistence/DeserializePerson.java)
   
-  * [Reverse number](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/reverseNumber/ReverseNumber.java)
-  
   * ### **Security:**
     * [Encrpt Decrypt token using DES](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/security/EncDecrypter.java)
   
@@ -72,6 +58,5 @@
     * [Without temp](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/swap/SwapNumbersWithoutTemp.java)
   
   * ### **Extra's:**
-    * [FizzBuzz](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/extras/FizzBuzz.java)
     * [Object Reference](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/extras/ObjectReference.java)
     * [Pass By Value](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/extras/PassByValue.java)
