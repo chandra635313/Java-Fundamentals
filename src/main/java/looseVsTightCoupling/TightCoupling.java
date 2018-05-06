@@ -3,7 +3,7 @@ package looseVsTightCoupling;
 /*
 
 1. Traveller object is tighly coupled with Car object.
-2. If traveller object wants to use Bike object in place of Car then Travller class needs to be updated.
+2. If traveller object wants to use Bike object in place of Car then Traveller class needs to be updated.
  
 */
 
